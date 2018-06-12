@@ -2,7 +2,7 @@
 
 # :skull: Pirate party instances, accounts, representatives in Fediverse
 
-`WARNING`: This is a __mirror repo__ from [GitLab](https://gitlab.com/distributopia/friendica-world-overview). Please, send your MRs there. PRs here won't be merged.
+`WARNING`: This is a __mirror repo__ from [GitLab](https://gitlab.com/distributopia/caramba). Please, send your MRs there. PRs here won't be merged.
 
 #### Generalistic
 * https://pirati.ca - (`Friendica`)
@@ -27,6 +27,6 @@
 // *suggestions welcome in issues on GitLab*
 
 ## Other research links
-- [Fediverse pirate servers](https://gitlab.com/distributopia/caramba)
+- [Friendica world overview](https://gitlab.com/distributopia/friendica-world-overview)
 - [Mastodon world overview](https://gitlab.com/distributopia/masto-world-overview)
 - [Mastodon server distribution](https://chaos.social/@leah/99837391793032137) research by Leah
