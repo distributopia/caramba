@@ -10,7 +10,8 @@
 
 #### Local
 * https://mastodon.pirateparty.be - Pirate Party Belgium (`Mastodon`)
-* https://mastodon.partipirate.org - Pirate Party France (`Mastodon`)
+* https://mastodon.partipirate.org/@PartiPirate - Pirate Party France (`Mastodon`)
+* https://mastodon.partipirate.org/@PartiPirateOccitanie - Pirate Party Occitanie (`Mastodon`)
 * https://mastodon.social/@Piratenpartij - Pirate Party Netherlands (`Mastodon`)
 * https://framasphere.org/u/pp_bretagne - Pirate Party Bretagne (`diaspora`)
 * https://social.yl.ms/profile/pp-rek - Pirate Party Rhein-Erft (`Friendica`)
