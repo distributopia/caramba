@@ -1,31 +1,47 @@
 
 
-# :skull: Pirate party instances, accounts, representatives in Fediverse
+# :skull: Pirate party representatives in Fediverse
 
 `WARNING`: This is a __mirror repo__ from [GitLab](https://gitlab.com/distributopia/caramba). Please, send your MRs there. PRs here won't be merged.
 
-#### Generalistic
-* https://pirati.ca - (`Friendica`)
-* https://pirati.cc/main/all - (`GNU Social`)
+> Accounts silent for 6 months or more are in `inactive` table.
+> Accounts silent for 1 year or more not included.
+> Bot accounts that only reshare from Twitter, etc., not included.
 
-#### Local
-* https://mastodon.pirateparty.be - Pirate Party Belgium (`Mastodon`)
-* https://mastodon.partipirate.org/@PartiPirate - Pirate Party France (`Mastodon`)
-* https://mastodon.partipirate.org/@PartiPirateOccitanie - Pirate Party Occitanie (`Mastodon`)
-* https://mastodon.social/@Piratenpartij - Pirate Party Netherlands (`Mastodon`)
-* https://framasphere.org/u/pp_bretagne - Pirate Party Bretagne (`diaspora`)
-* https://social.yl.ms/profile/pp-rek - Pirate Party Rhein-Erft (`Friendica`)
-* https://pirati.ca/profile/piratenhamburg - Pirate Party Hamburg (`Friendica`)
-* https://pod.geraspora.de/u/piratenparteiaachen - Pirate Party Aachen (`diapsora`)
-* https://despora.de/u/hopidd - Piraten Dresden (`diaspora`)
+#### Active ✔
+|url|region|network|
+|---|------|-------|
+|[@piratenpartei@joindiaspora.com](https://joindiaspora.com/u/piratenpartei)|Germany|diaspora|
+|[@piratenpartei@pirati.ca](https://pirati.ca/profile/piratenpartei)|Germany|Friendica|
+|[@ppbe@mastodon.pirateparty.be](https://mastodon.pirateparty.be/@ppbe)|Belgium|Mastodon|
+|[@PartiPirate@mastodon.partipirate.org](https://mastodon.partipirate.org/@PartiPirate)|France|Mastodon|
+|[@PartiPirateOccitanie@mastodon.partipirate.org](https://mastodon.partipirate.org/@PartiPirateOccitanie)|Occitania|Mastodon|
+|[@Piratenpartij@mastodon.social](https://mastodon.social/@Piratenpartij)|Netherlands|Mastodon|
+|[@PiratenOG@social.tchncs.de](https://social.tchncs.de/@PiratenOG)|Offenburg|Mastodon|
+|[@piratenpartei_news@social.piratenpartei.koeln](https://social.piratenpartei.koeln/channel/piratenpartei_news)|Koeln|Hubzilla|
+|[@piratenhamburg@pirati.ca](https://pirati.ca/profile/piratenhamburg)|Hamburg|Friendica|
+|[@piratenparteiaachen@pod.geraspora.de](https://pod.geraspora.de/u/piratenparteiaachen)|Aachen|diaspora|
+|[@hopidd@despora.de](https://despora.de/u/hopidd)|Dresden|diaspora|
+|[@pp-rek@social.yl.ms](https://social.yl.ms/profile/pp-rek)|Rhein-Erft|Friendica|
+|[@piraten_news@social.yl.ms](https://social.yl.ms/profile/piraten_news)|Nordrhein-Westfalen|Friendica|
+|[@piratenbonn@pod.geraspora.de](https://pod.geraspora.de/u/piratenbonn)|Bonn|diaspora|
+|[@taunuspiraten@mastodon.social](https://mastodon.social/@taunuspiraten)|Taunus|Mastodon|
+|[@rubpiraten@pirati.ca](https://pirati.ca/profile/rubpiraten)|Bochum|Friendica|
+|[@piraten_saar@joindiaspora.com](https://joindiaspora.com/u/piraten_saar)|Saarland|diaspora|
 
-#### piratenpartei.de
-* https://social.piratenpartei.koeln/channel/piratenpartei_news - PiratenPartei (`Hubzilla`)
-* https://squeet.me/profile/piratentweets - PiratenPartei (`Friendica`)
-* https://joindiaspora.com/u/piratenpartei - PiratenPartei (`diaspora`)
-* https://social.yl.ms/profile/piraten_news - PiratenPartei (`Friendica`)
+#### Active Generalistic (??)
+|url|region|network|
+|---|------|-------|
+|[pirati.ca](https://pirati.ca)|-|Friendica|
+|[pirati.cc](https://pirati.cc/main/all)|-|GNU Social|
 
-// *suggestions welcome in issues on GitLab*
+#### Inactive ✖
+|url|region|network|
+|---|------|-------|
+|[@ppbe@framasphere.org](https://framasphere.org/u/ppbe)|Belgium|diaspora|
+|[@piratenpartei@mastodon.partipirate.org](https://mastodon.partipirate.org/@piratenpartei)|Germany|Mastodon|
+
+**Merge requests welcome! Please, add accounts representing countries first, cities / regions - at the end.**
 
 ## Other research links
 - [Friendica world overview](https://gitlab.com/distributopia/friendica-world-overview)
