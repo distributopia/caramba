@@ -26,6 +26,7 @@
 |[@taunuspiraten@mastodon.social](https://mastodon.social/@taunuspiraten)|Taunus|Mastodon|
 |[@rubpiraten@pirati.ca](https://pirati.ca/profile/rubpiraten)|Bochum|Friendica|
 |[@piraten_saar@joindiaspora.com](https://joindiaspora.com/u/piraten_saar)|Saarland|diaspora|
+|[@marcel_kolaja@mastodon.pirati.cz](https://mastodon.pirati.cz)|Czech republic|Mastodon|
 
 #### [Active Generalistic (??)](active-generalistic)
 |**url**|**region**|**network**|
