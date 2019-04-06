@@ -20,6 +20,8 @@
 |[@piratenhamburg@pirati.ca](https://pirati.ca/profile/piratenhamburg)|Hamburg|Friendica|
 |[@piratenparteiaachen@pod.geraspora.de](https://pod.geraspora.de/u/piratenparteiaachen)|Aachen|diaspora|
 |[@hopidd@despora.de](https://despora.de/u/hopidd)|Dresden|diaspora|
+|[@hopidd@chaos.social](https://chaos.social/@hopidd)|Dresden|Mastodon|
+|[@piratendresden@pirati.ca](https://pirati.ca/profile/piratendresden)|Dresden|Mastodon|
 |[@pp-rek@social.yl.ms](https://social.yl.ms/profile/pp-rek)|Rhein-Erft|Friendica|
 |[@piraten_news@social.yl.ms](https://social.yl.ms/profile/piraten_news)|Nordrhein-Westfalen|Friendica|
 |[@piratenbonn@pod.geraspora.de](https://pod.geraspora.de/u/piratenbonn)|Bonn|diaspora|
