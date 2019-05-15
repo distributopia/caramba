@@ -37,7 +37,7 @@
 |[@taunuspiraten@mastodon.social](https://mastodon.social/@taunuspiraten)|Taunus|Mastodon|
 |[@rubpiraten@pirati.ca](https://pirati.ca/profile/rubpiraten)|Bochum|Friendica|
 
-#### [Active Generalistic)](active-generalistic)
+#### [Active Generalistic](active-generalistic)
 |**url**|**region**|**network**|
 |-------|----------|-----------|
 |[pirati.ca](https://pirati.ca)|-|Friendica|
