@@ -14,6 +14,8 @@
 |[@ppbe@mastodon.pirateparty.be](https://mastodon.pirateparty.be/@ppbe)|Belgium|Mastodon|
 |[@PartiPirate@mastodon.partipirate.org](https://mastodon.partipirate.org/@PartiPirate)|France|Mastodon|
 |[@Piratenpartij@mastodon.social](https://mastodon.social/@Piratenpartij)|Netherlands|Mastodon|
+|[@marcel_kolaja@mastodon.pirati.cz](https://mastodon.pirati.cz)|Czech republic|Mastodon|
+|[@piratepartygr@mastodon.social](https://mastodon.social/@piratepartygr)|Greece|Mastodon|
 |[@PartiPirateOccitanie@mastodon.partipirate.org](https://mastodon.partipirate.org/@PartiPirateOccitanie)|Occitania|Mastodon|
 |[@PiratenOG@social.tchncs.de](https://social.tchncs.de/@PiratenOG)|Offenburg|Mastodon|
 |[@piratenpartei_news@social.piratenpartei.koeln](https://social.piratenpartei.koeln/channel/piratenpartei_news)|Koeln|Hubzilla|
@@ -28,7 +30,6 @@
 |[@taunuspiraten@mastodon.social](https://mastodon.social/@taunuspiraten)|Taunus|Mastodon|
 |[@rubpiraten@pirati.ca](https://pirati.ca/profile/rubpiraten)|Bochum|Friendica|
 |[@piraten_saar@joindiaspora.com](https://joindiaspora.com/u/piraten_saar)|Saarland|diaspora|
-|[@marcel_kolaja@mastodon.pirati.cz](https://mastodon.pirati.cz)|Czech republic|Mastodon|
 
 #### [Active Generalistic (??)](active-generalistic)
 |**url**|**region**|**network**|
