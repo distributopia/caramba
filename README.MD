@@ -8,7 +8,7 @@
 
 "Unique Fediverse content" indicates that the account interacts with Fediverse users (i.e., reposts them, mentions, replies to comments), providing unique content available only via federating networks. Crossposting accounts may provide automatic crosspots from Twitter, RSS feed or other source.
 
-#### [✔ Active](active) / Unique Fediverse content
+#### [✔ Active / Unique Fediverse content ](#active-unique)
 |**url**|**region**|**network**|
 |-------|----------|-----------|
 |[@ppbe@mastodon.pirateparty.be](https://mastodon.pirateparty.be/@ppbe)|Belgium|Mastodon|
@@ -17,7 +17,7 @@
 |[@hopidd@despora.de](https://despora.de/u/hopidd)|Dresden|diaspora|
 |[@piratenbonn@pod.geraspora.de](https://pod.geraspora.de/u/piratenbonn)|Bonn|diaspora|
 
-#### [✔ Active](active)
+#### [✔ Active](#active)
 |**url**|**region**|**network**|
 |-------|----------|-----------|
 |[@piratenpartei@pirati.ca](https://pirati.ca/profile/piratenpartei)|Germany|Friendica|
@@ -37,13 +37,13 @@
 |[@taunuspiraten@mastodon.social](https://mastodon.social/@taunuspiraten)|Taunus|Mastodon|
 |[@rubpiraten@pirati.ca](https://pirati.ca/profile/rubpiraten)|Bochum|Friendica|
 
-#### [Active Generalistic](active-generalistic)
+#### [Active Generalistic](#active-generalistic)
 |**url**|**region**|**network**|
 |-------|----------|-----------|
 |[pirati.ca](https://pirati.ca)|-|Friendica|
 |[pirati.cc](https://pirati.cc/main/all)|-|GNU Social|
 
-#### [✖ Inactive](inactive)
+#### [✖ Inactive](#inactive)
 |**url**|**region**|**network**|
 |-------|----------|-----------|
 |[@ppbe@framasphere.org](https://framasphere.org/u/ppbe)|Belgium|diaspora|
