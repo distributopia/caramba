@@ -16,6 +16,8 @@
 |[@hopidd@chaos.social](https://chaos.social/@hopidd)|Dresden|Mastodon|
 |[@hopidd@despora.de](https://despora.de/u/hopidd)|Dresden|diaspora|
 |[@piratenbonn@pod.geraspora.de](https://pod.geraspora.de/u/piratenbonn)|Bonn|diaspora|
+|[@liege@mastodon.pirateparty.be](https://mastodon.pirateparty.be/@liege)|Liège|Mastodon|
+
 
 #### [✔ Active](#active)
 |**url**|**region**|**network**|
@@ -26,6 +28,7 @@
 |[@marcel_kolaja@mastodon.pirati.cz](https://mastodon.pirati.cz)|Czech republic|Mastodon|
 |[@piratepartygr@mastodon.social](https://mastodon.social/@piratepartygr)|Greece|Mastodon|
 |[@piratpartiet@mastodon.social](https://mastodon.social/@piratpartiet)|Sweden|Mastodon|
+|[@PPRU@mastodon.pirateparty.be](https://mastodon.pirateparty.be/@PPRU)|Russia|Mastodon|
 |[@PartiPirateOccitanie@mastodon.partipirate.org](https://mastodon.partipirate.org/@PartiPirateOccitanie)|Occitania|Mastodon|
 |[@PiratenOG@social.tchncs.de](https://social.tchncs.de/@PiratenOG)|Offenburg|Mastodon|
 |[@piratenpartei_news@social.piratenpartei.koeln](https://social.piratenpartei.koeln/channel/piratenpartei_news)|Koeln|Hubzilla|
