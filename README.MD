@@ -1,5 +1,4 @@
 
-
 # :skull: Pirate party representatives in Fediverse
 
 `WARNING`: This is a __mirror repo__ from [GitLab](https://gitlab.com/distributopia/caramba). Please, send your MRs there. PRs here won't be merged.
@@ -17,6 +16,7 @@
 |[@hopidd@despora.de](https://despora.de/u/hopidd)|Dresden|diaspora|
 |[@piratenbonn@pod.geraspora.de](https://pod.geraspora.de/u/piratenbonn)|Bonn|diaspora|
 |[@liege@mastodon.pirateparty.be](https://mastodon.pirateparty.be/@liege)|Liège|Mastodon|
+|[@partit_pirata@mastodont.cat](https://mastodon.cat/@partit_pirata)|Catalonia|Mastodon|
 
 
 #### [✔ Active](#active)
